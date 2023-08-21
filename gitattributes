@@ -1,0 +1,3 @@
+*.python linguist-detectable=true
+*.matplotlib linguist-detectable=true
+*.SQL linguist-detectable=true
